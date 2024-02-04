@@ -1,0 +1,23 @@
+body {
+    /*height: 100%;*/
+}
+
+.div-block {
+    width: 100px;
+    height: 100px;
+    background-color: #fe0000;
+    align-self: center;
+}
+
+.div-block:hover {
+    background-color: #808080;
+    border-radius: 50%;
+    transition: 600ms;
+}
+
+.main-div {
+    background-color: #ffe3c4;
+    display: flex;
+    justify-content: space-evenly;
+    height: 97.61vh;
+}

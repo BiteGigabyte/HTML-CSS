@@ -1,0 +1,43 @@
+.rubik-pixels-font {
+    font-family: 'Rubik Pixels', system-ui;
+}
+
+.dancing-script-font {
+font-family: 'Dancing Script', cursive;
+}
+
+.fjalla-one-font {
+font-family: 'Fjalla One', sans-serif;
+}
+
+.indie-flower-font {
+font-family: 'Indie Flower', cursive;
+}
+
+.sedgwick-ave-display-font {
+font-family: 'Sedgwick Ave Display', cursive;
+}
+
+
+.style {
+    width: 16vw;
+    height: 16vw;
+    border: 1px solid #ffe3c4;
+    background-color: #ffe3c4;
+    text-align: center;
+    min-width: 77.5px;
+    min-height: 77.5px;
+}
+
+.main-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.square-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
