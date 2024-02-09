@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+
+    font-family: 'Rubik Pixels', system-ui;
+}
+
+header {
+    background: #ffc1cb;
+    height: 50vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    text-align: center;
+}
+
+footer {
+    background: #272727;
+
+    height: 50vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    text-align: center;
+
+    color: white;
+}
+
+h2 {
+    margin: 0 0 5% 0;
+
+}
+
+p {
+    margin: 0;
+}
+
