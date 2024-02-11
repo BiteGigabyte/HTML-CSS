@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    color: #777777;
+
+    font-family: KoHo, sans-serif; ;
+    /*font-size: 35px;*/
+    font-style: normal;
+    /*font-weight: 400;*/
+    line-height: normal;
+}
+
+main {
+    width: 33%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    margin: 3%;
+}
+
+.main-section1 {
+    border: #dbdbdb solid 2px;
+
+    /*height: 80vh;*/
+    height: 80vh;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    border: #dbdbdb solid 2px;
+
+    width: 77.4193548%;
+    height: 10%;
+
+    background-color: #fafafa;
+    box-sizing: border-box;
+
+}
+
+.main-section1 img {
+    width: 45%;
+
+    margin-top: 7%;
+}
+
+.main-section1 input {
+    margin: 1.2%;
+    padding-left: 2.3%;
+    padding-right: 2.3%;
+    box-sizing: border-box;
+}
+
+.main-section1>input {
+    margin-top: 2.5%;
+}
+
+button {
+    width: 77.4193548%;
+    height: 9%;
+    border-radius: 10px;
+    border: #68b5fa solid 2px;
+
+    color: white;
+
+    font-size: 115%;
+
+    /*box-sizing: border-box;*/
+
+    background-color: #68b5fa;
+
+    margin-top: 3%;
+
+    font-weight: bold;
+}
+
+a {
+    width: 100%;
+    text-decoration: none;
+    color: #475e8f;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:hover {
+    text-decoration: #475e8f;
+}
+
+.main-section1-a1 {
+    font-size: 105%;
+}
+
+#main-section1-a-img1 {
+    width:6%;
+    margin: 0;
+    margin-right: 2%;
+}
+
+#main-section1-a-img2 {
+    margin-top: 7%;
+}
+
+
+
+
+.main-section2 {
+    margin-top: 2%;
+
+    border: #dbdbdb solid 2px;
+    width: 100%;
+
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.main-section2 a {
+    width: 30%;
+    min-width: 126.23px;
+    /*margin-left: 1%;*/
+}
